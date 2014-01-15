@@ -1,0 +1,7 @@
+# Rename to config.py and insert appropriate values
+
+XIVELY_API_KEY = 'somerandomkeystring'
+XIVELY_FEED_ID = 12345678
+
+LOG_FORMAT = "%(asctime)s %(message)s"
+DEBUG = False
